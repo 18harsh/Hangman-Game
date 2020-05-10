@@ -6,7 +6,7 @@ Python 3.x
 
 pygame
 # Screenshots of the code:
-![](](Screenshots/2020-05-11.png)
+
 ![](Screenshots/2020-05-11%20(1).png)
 ![](Screenshots/2020-05-11%20(2).png)
 ![](Screenshots/2020-05-11%20(3).png)
@@ -14,4 +14,4 @@ pygame
 ![](Screenshots/2020-05-11%20(5).png)
 ![](Screenshots/2020-05-11%20(6).png)
 ![](Screenshots/2020-05-11%20(7).png)
-
+![](Screenshots/2020-05-11.png)
